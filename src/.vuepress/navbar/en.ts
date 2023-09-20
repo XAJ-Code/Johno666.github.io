@@ -12,6 +12,6 @@ export const enNavbar = navbar([
   {
     text: "github.io Docs",
     icon: "note",
-    link: "https://huxzhi.github.io/en/",
+    link: "https://johno666.github.io/",
   },
 ]);

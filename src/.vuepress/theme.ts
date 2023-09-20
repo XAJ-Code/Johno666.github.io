@@ -3,25 +3,25 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://huxzhi.github.io",
+  hostname: "https://johno666.github.io/",
 
   author: {
-    name: "Huxzhi",
-    url: "https://huxzhi.fun",
+    name: "XiaoAjun",
+    url: "https://johno666.github.io/",
   },
 
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
-  repo: "Huxzhi/huxzhi.github.io",
+  repo: "Johno666/johno666.github.io",
 
   docsDir: "src",
   docsBranch: "main",
   blog: {
     medias: {
       Email: "huxzhi@gmail.com",
-      GitHub: "https://github.com/Huxzhi",
+      GitHub: "https://github.com/Johno666",
     },
   },
 
@@ -125,7 +125,7 @@ export default hopeTheme({
     comment: {
       ////@ts-expect-error: You should generate and use your own comment service
       provider: "Giscus",
-      repo: "Huxzhi/giscus-discussions",
+      repo: "Johno666/giscus-discussions",
       repoId: "R_kgDOJAIHGQ",
       category: "Announcements",
       categoryId: "DIC_kwDOJAIHGc4CUVEI",

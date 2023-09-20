@@ -4,9 +4,9 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: /logo.svg
-heroText: Huxzhiの小站
+heroText: 小阿俊个人博客
 heroFullScreen: false
-tagline: 无限进步
+tagline: 不断努力,精研技术
 projects:
   - icon: project
     name: 项目名称
@@ -26,10 +26,10 @@ projects:
   - icon: article
     name: front-matter-helper
     desc: 快速添加 front-matter 信息
-    link: https://github.com/Huxzhi/frontmatter-helper
+    link: https://github.com/Johno666/front-matter-helper
 
 
-footer: 一般路过页脚
+footer: 不断进步，精研技术
 date: 2023-05-08 09:06
 updated: 2023-05-13 22:56
 ---

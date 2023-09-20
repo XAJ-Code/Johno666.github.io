@@ -18,6 +18,6 @@ export const zhNavbar = navbar([
   {
     text: "github 文档",
     icon: "note",
-    link: "https://huxzhi.github.io/",
+    link: "https://johno666.github.io/",
   },
 ]);

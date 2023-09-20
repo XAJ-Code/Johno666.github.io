@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: Huxzhi's blog
+heroText: XiaoAjun's blog
 tagline: Switch Chinese for better experience 
 # heroFullScreen: true
 projects:
