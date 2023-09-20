@@ -1,1 +1,0 @@
-import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as c}from"./app-ee3e8713.js";const o={},s=c("p",null,"太散了，其实 抓住几个核心方向就行了，剩下的就是解决手段，性能无非是，资源加载问题、文件大小问题、代码逻辑问题、交互体验问题。 然后按这4个方向不断的定优化指标的事",-1),n=[s];function r(a,l){return e(),t("div",null,n)}const m=_(o,[["render",r],["__file","3c1-优化网页加载速度.html.vue"]]);export{m as default};

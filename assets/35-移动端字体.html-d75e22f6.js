@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-ad0845b4.js";const c={},s=o("p",null,"移动端字体使用 rem，不用ps像素，不然切换到iPad 大屏幕，字体会变的特别小",-1),r=[s];function n(a,l){return _(),t("div",null,r)}const d=e(c,[["render",n],["__file","35-移动端字体.html.vue"]]);export{d as default};

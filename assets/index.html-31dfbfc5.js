@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,d as n,a as r}from"./app-ad0845b4.js";const a={},c=r("p",null,"为了毕业设计而开始学 Java spring ，两个月时间，做了一个 学生缴费管理系统",-1);function s(_,l){return o(),t("div",null,[c,n(" more ")])}const i=e(a,[["render",s],["__file","index.html.vue"]]);export{i as default};

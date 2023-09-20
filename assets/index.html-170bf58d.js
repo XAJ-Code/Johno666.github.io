@@ -1,1 +1,0 @@
-import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as n,d as c,a as e}from"./app-ee3e8713.js";const r={},s=e("p",null,"此处是 Huxzhi 存放的一些代码笔记。",-1),_=e("p",null,"详细看左侧目录",-1);function a(l,d){return t(),n("div",null,[s,c(" more "),_])}const f=o(r,[["render",a],["__file","index.html.vue"]]);export{f as default};

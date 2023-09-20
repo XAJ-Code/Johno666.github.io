@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c,a as e}from"./app-ee3e8713.js";const n={},_=e("p",null,"也是跟着小满学的，马上要出2.0了，之后再更新",-1),s=e("p",null,"上网时，没有注意到的事情cd",-1),r=[_,s];function l(a,d){return o(),c("div",null,r)}const m=t(n,[["render",l],["__file","index.html.vue"]]);export{m as default};
