@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as e}from"./app-ee3e8713.js";const s={},c=e("p",null,"自己写全局变量的时候才明白",-1),l=e("ul",null,[e("li",null,"getters 在渲染之前](./images/能传参数")],-1),n=[c,l];function a(r,i){return t(),o("div",null,n)}const d=_(s,[["render",a],["__file","01a-注意事项.html.vue"]]);export{d as default};
