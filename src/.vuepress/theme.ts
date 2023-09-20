@@ -57,7 +57,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "一般页脚路过",
+      footer: "不断进步，精研技术",
 
       displayFooter: true,
 
