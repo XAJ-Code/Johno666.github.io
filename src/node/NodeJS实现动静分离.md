@@ -30,6 +30,8 @@ http.createServer((req, res) => {
         const filePath = path.join(process.cwd(), url); // 获取文件路径
         const fileStream = fs.createReadStream(filePath); // 创建可读流
         res.setHeader('Content-Type', mime.getType(filePath)); // 设置响应头，指定文件类型
+        res.statusCode = 200; // 设置响应状态码
+        res.setHeader('Cache-Control', 'public,max-age:3600'); // 设置响应头，缓存资源,3600s=1h
         fileStream.pipe(res); // 将文件流写入响应流中
         fileStream.on('error',()=>{
             res.statusCode = 404;
