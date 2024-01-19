@@ -43,7 +43,8 @@ export default defineConfig({
           { text: 'nodejs第四章Events', link: '/src/node/Node.js中的Events模块', },
           { text: 'nodejs第五章Zlib', link: '/src/node/NodeJs-之zlib文件压缩', },
           { text: 'nodejs第六章Http', link: '/src/node/NodeJs中http服务器' },
-          { text: 'nodejs第七章反向代理', link: '/src/node/NodeJS实现反向代理' }
+          { text: 'nodejs第七章反向代理', link: '/src/node/NodeJS实现反向代理' },
+          { text: 'nodejs第八章动静分离', link: '/src/node/NodeJS实现动静分离' }
         ]
       }
     ],
