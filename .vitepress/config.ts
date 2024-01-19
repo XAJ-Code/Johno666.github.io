@@ -5,7 +5,7 @@ export default defineConfig({
   title: "小阿俊的博客",
   description: "代码知识点归纳",
   base: "/",
-  srcDir:'.',
+  srcDir: '.',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -41,7 +41,8 @@ export default defineConfig({
           { text: 'nodeJs第二章Bufer', link: '/src/node/NodeJS内置模块之buffer' },
           { text: 'nodejs第三章Crypoto', link: '/src/node/NodeJs内置模块-crypto', },
           { text: 'nodejs第四章Events', link: '/src/node/Node.js中的Events模块', },
-          { text: 'nodejs第五章Zlib', link: '/src/node/NodeJs-之zlib文件压缩', }
+          { text: 'nodejs第五章Zlib', link: '/src/node/NodeJs-之zlib文件压缩', },
+          { text: 'nodejs第六章Http', link: '/src/node/NodeJs中http服务器' }
         ]
       }
     ],
