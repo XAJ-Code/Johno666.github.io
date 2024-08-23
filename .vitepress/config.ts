@@ -5,7 +5,6 @@ export default defineConfig({
   title: "小阿俊的博客",
   description: "代码知识点归纳",
   base: "/",
-  srcDir: '.',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
